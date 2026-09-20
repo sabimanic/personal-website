@@ -221,3 +221,35 @@ footer {
         text-align: center;
     }
 }
+
+/* Google Form Section */
+
+.form-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.form-section h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.form-section p {
+    margin-bottom: 25px;
+}
+
+
+/* Google Form */
+
+.google-form {
+    width: 100%;
+    overflow: hidden;
+}
+
+.google-form iframe {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    min-height: 800px;
+    border: none;
+}
